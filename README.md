@@ -1,3 +1,4 @@
+<img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/a320ed94-ffa1-4436-a2dc-880ab3944536" />
 <h1 align="center">Hi 👋, I'm Syed Ibrahim</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India </h3>
 
