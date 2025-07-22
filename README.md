@@ -15,7 +15,7 @@
 - 📫 How to reach me: **syed.ibrahimvisionary@gmail.com**  
 - 💼 Open to **Internships, Freelance & Full-time Roles**  
 - ⚡ Passionate about transforming ideas into clean, functional, and elegant code.
-
+- 👨🏻‍💻 Portfolio link : https://syed-ibrahim.netlify.app/
 ---
 
 ### 🛠️ Tech Stack
