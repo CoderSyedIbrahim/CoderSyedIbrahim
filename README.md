@@ -1,4 +1,4 @@
-![Github Syed Ibrahim](https://github.com/user-attachments/assets/219f1b0b-64bb-41c4-bb28-8bbaac0389d5)
+![Github Syed Ibrahim](https://github.com/user-attachments/assets/547190d2-3283-408c-98d0-d9ad87fe5a8a)
 
 <h1 align="center">Hi 👋, I'm Syed Ibrahim</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India </h3>
