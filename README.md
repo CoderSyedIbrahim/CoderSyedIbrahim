@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 - 🔭 I’m currently working on **Full Stack Projects**  
 - 🌱 I’m exploring **Spring Boot, Angular, and DevOps tools**  
 - 💬 Ask me about **Java, Web Development, MySQL, APIs**  
@@ -19,46 +19,47 @@
 - 👨🏻‍💻 Portfolio link : https://syed-ibrahim.netlify.app/
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
-#### 🧠 Languages & Fundamentals
+####  Languages & Fundamentals
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=Python&logoColor=white)
+
+####  Frontend
 ![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### 🧩 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### ⚙️ Backend
+####  Backend
+![Django](https://img.shields.io/badge/Django-339933?style=for-the-badge&logo=Django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-#### 🛢️ Database
+####  Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### 🚀 Tools & DevOps
+####  Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
-<p align="center">
+<p align="center"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=CoderSyedIbrahim&show_icons=true&theme=radical" alt="CoderSyedIbrahim" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderSyedIbrahim&theme=radical" height="180" /> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderSyedIbrahim&theme=radical" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSyedIbrahim&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
+
 
 ---
 
-### 🧩 Projects
-- 🧠 Movie Recommendation System using ML
+###  Projects
+- 📽️ Movie Recommendation System using ML
 - ⛅ Weather Forecasting App with Dark Mode
 - 📝 Python Internship Projects (To-Do, Calc, Contact Book, etc.)
 
