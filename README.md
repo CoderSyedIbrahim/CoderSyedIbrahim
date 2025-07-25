@@ -11,7 +11,7 @@
 
 ###  About Me
 - 🔭 I’m currently working on **Full Stack Projects**  
-- 🌱 I’m exploring **Spring Boot, Angular, and DevOps tools**  
+- 🌱 I’m exploring **Angular, and DevOps tools**  
 - 💬 Ask me about **Java, Web Development, MySQL, APIs**  
 - 📫 How to reach me: **syed.ibrahimvisionary@gmail.com**  
 - 💼 Open to **Internships, Freelance & Full-time Roles**  
