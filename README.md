@@ -51,7 +51,7 @@
 
 <p align="center"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=CoderSyedIbrahim&show_icons=true&theme=radical" alt="CoderSyedIbrahim" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderSyedIbrahim&theme=radical" height="180" /><br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSyedIbrahim&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" >
 </p>
 
